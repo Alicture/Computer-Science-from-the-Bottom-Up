@@ -70,6 +70,8 @@ int main(int argc, char *argv[])
 
 ### 例1.2 include/linux/virtio.h中的抽象
 
+<span id="virto-abstraction">
+
 ```c
   /**
  * virtio_driver - operations for a virtio I/O driver

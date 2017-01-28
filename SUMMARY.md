@@ -6,6 +6,7 @@
     * [为何自下而上](introduction/section1.2.md)
     * [归功于科技](introduction/section1.3.md)
 * [第一章.Unix概述和高阶C](chapter1/README.md)
-    * [所有东西都是一个文件！](chapter1/section1.1.md)
+    * [万物皆文件！](chapter1/section1.1.md)
     * [实现抽象](chapter1/section1.2.md)
+    * [文件描述符](chapter1/section1.3.md)
 
