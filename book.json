@@ -29,7 +29,7 @@
         "pageNumbers": false,
         "paperSize": "a4"
     },
-    "plugins": [],
+    "plugins": ["katex"],
     "title": "自下而上的计算机科学",
     "variables": {}
 }
