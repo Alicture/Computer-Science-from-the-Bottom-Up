@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [介绍](introduction/README.md)
+* [序言](introduction/README.md)
     * [欢迎](introduction/welcome.md)
         * [哲学](introduction/section0.1.md)
         * [为何自下而上](introduction/section0.2.md)
