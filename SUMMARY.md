@@ -17,4 +17,9 @@
     * [二进制-计算机学的基础](chapter2/section2.1.md)
         * [二进制理论](chapter2/section2.1.1.md)
         * [十六进制](chapter2/section2.1.2.md)
+        * [实际影响](chapter2/section2.1.3.md)
+    * [类型与数字描述](chapter2/section2.2.md)
+        * [C语言标准](chapter2/section2.2.1.md)
+        * [类型](chapter2/section2.2.2.md)
+        * [数字描述](chapter2/section2.2.3.md)
 
