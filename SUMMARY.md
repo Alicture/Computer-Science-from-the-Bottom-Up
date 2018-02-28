@@ -23,6 +23,5 @@
         * [C语言标准](chapter2/section2.2.1.md)
         * [类型](chapter2/section2.2.2.md)
         * [数字描述](chapter2/section2.2.3.md)
-
-    ​
-
+* [第三章 计算机体系结构](chapter3/section3.1.md)    ​
+    * [CPU](chapter3/section3.1.md)
