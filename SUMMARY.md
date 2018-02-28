@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [自下而上的计算机科学](README.md)
 
 * [序言](introduction/README.md)
     * [欢迎](introduction/welcome.md)
@@ -25,3 +25,4 @@
         * [数字描述](chapter2/section2.2.3.md)
 * [第三章 计算机体系结构](chapter3/section3.1.md)    ​
     * [CPU](chapter3/section3.1.md)
+    * [内存](chapter3/section3.2.md)
