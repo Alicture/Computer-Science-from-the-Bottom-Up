@@ -26,3 +26,4 @@
 * [第三章 计算机体系结构](chapter3/section3.1.md)    ​
     * [CPU](chapter3/section3.1.md)
     * [内存](chapter3/section3.2.md)
+    * [外围设备和总线](chapter3/section3.3.md)
